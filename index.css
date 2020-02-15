@@ -3,7 +3,7 @@ body {
 }
 
 *.title {
-  font-size : 2.5em;
+  font-size : 40px;
 padding : 0px 20px;
 }
 
@@ -15,10 +15,15 @@ background-color : white;
 
 p {
 padding : 0px 30px;
-font-size : 1.5em;
+font-size : 24px;
 }
 
 img.title {
 	border-radius: 50%;
 	float: right;
+}
+
+span.row {
+	font-size: 20px;
+	text-indent: 1em
 }
