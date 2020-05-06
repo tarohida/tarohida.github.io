@@ -2,14 +2,14 @@ body {
 	background-color : gray;
 }
 
-*.title {
+h1.title {
   font-size : 40px;
-padding : 0px 20px;
+  padding : 0px 20px;
 }
 
 div.contents {
 padding : 30px 50px;
-margin :40px 100px;
+margin : 40px 100px;
 background-color : white;
 }
 
@@ -21,9 +21,16 @@ font-size : 24px;
 img.title {
 	border-radius: 50%;
 	float: right;
+    display: block;
 }
 
 span.row {
 	font-size: 20px;
 	text-indent: 1em
 }
+
+img.thxto6meter {
+    float: right;
+}
+
+
