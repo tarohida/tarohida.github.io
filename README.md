@@ -1,11 +1,9 @@
-# develop
+# tarohida.github.io
 
-### start apache web server.  
-```powershell(as a Administrator)
-PS C:\> C:\xampp\apache\bin\httpd.exe -k start
+## how to develop
+
 ```
-### Next, access to [http://127.0.0.1.xip.io/taro-hida/](http://127.0.0.1.xip.io/taro-hida/)
-### After edit, stop apache web server.  
-```powershell(as a Administrator)
-PS C:\> C:\xampp\apache\bin\httpd.exe -k stop
+$ git clone 
+$ cd ./tarohida.github.io
+$ php -S localhost:8000
 ```
